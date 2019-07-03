@@ -6,8 +6,8 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [travis](http://xyz.com)
+- [submission PR](https://github.com/401-advanced-javascript-js/redux-complex-reducer/pull/1)
+- [travis](https://travis-ci.com/401-advanced-javascript-js/redux-complex-reducer)
   <!-- - [back-end](http://xyz.com) (when applicable) -->
   <!-- - [front-end](http://xyz.com) (when applicable) -->
 
